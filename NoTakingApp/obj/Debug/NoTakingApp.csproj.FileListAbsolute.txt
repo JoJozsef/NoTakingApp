@@ -1,0 +1,11 @@
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\bin\Debug\NoTakingApp.exe.config
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\bin\Debug\NoTakingApp.exe
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\bin\Debug\NoTakingApp.pdb
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.csproj.AssemblyReference.cache
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.NoTaker.resources
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.Properties.Resources.resources
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.csproj.GenerateResource.cache
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.exe
+C:\Users\bolij\source\repos\NoTakingApp\NoTakingApp\obj\Debug\NoTakingApp.pdb
